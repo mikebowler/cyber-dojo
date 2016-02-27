@@ -1,9 +1,8 @@
 
 {
   "visible_filenames": [
-    "HikerTest.java",
-    "Hiker.java",
-    "HikerHelper.java",
+    "FizzBuzzTest.java",
+    "FizzBuzz.java",
     "cyber-dojo.sh"
   ],
   "filename_extension" : ".java",
