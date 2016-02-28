@@ -1,13 +1,13 @@
 
 {
   "visible_filenames": [
-    "HikerTest.java",
-    "Hiker.java",
-    "HikerHelper.java",
+    "GildedRoseTest.java",
+    "GildedRose.java",
+    "Item.java",
     "cyber-dojo.sh"
   ],
   "filename_extension" : ".java",
-  "display_name": "Java, Mockito",
+  "display_name": "Java, GildedRose",
   "unit_test_framework": "junit",
-  "image_name": "cyberdojofoundation/java_mockito"
+  "image_name": "cyberdojofoundation/java_junit"
 }
